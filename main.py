@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 from keyboards import *
 
-bot = telebot.TeleBot("6862186713:AAENysIh17kp4niXAM7a8n2pJ6zp7GvVaF0")
+bot = telebot.TeleBot("")
 
 # Подключение к базе данных
 database = sqlite3.connect("contacts.db")
