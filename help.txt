@@ -1,0 +1,7 @@
+ИНСТРУКЦИЯ ДЛЯ БОТА
+/add contact
+/search contact
+/show all contact
+/edit contact
+/import contact
+/export contact
